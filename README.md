@@ -86,7 +86,7 @@ Felelős:
 
 ---
 
-## 3️⃣ `MG_utils.py` (Saját modul – **MG** monogram kötelező!)
+## 3️⃣ `MG_utils.py` (Saját modul)
 Tartalmazza a saját függvényeket:
 
 - `mg_distance_mg(p1, p2)`  
@@ -103,7 +103,7 @@ Tartalmazza a saját függvényeket:
 
 ---
 
-## 4️⃣ `MG_shapes.py`
+## 4️⃣ `MG_shapes.py` (Saját modul)
 Tartalmazza a projekt saját osztályát:
 
 ### ✔ `MGShape` osztály

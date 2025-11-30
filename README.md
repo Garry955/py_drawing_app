@@ -103,7 +103,7 @@ Tartalmazza a saját függvényeket:
 
 ---
 
-## 4️⃣ `MG_shapes.py` (Saját osztály modul – **MG**)
+## 4️⃣ `MG_shapes.py`
 Tartalmazza a projekt saját osztályát:
 
 ### ✔ `MGShape` osztály
